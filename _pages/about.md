@@ -7,7 +7,21 @@ redirect_from:
   - /about.html
 ---
 ![welcome](images/welcome.gif)
-### Hi there 👋, my dear friends! 
+# Hi there 👋, my dear friends! 
+# Welcome to My Personal Space! 😊
+
+I’m thrilled to have you here.
+
+As a recent Master of Engineering graduate 🎓 with a passion for swimming 🏊‍♂️, photography 📸, and traveling ✈️, I’m on a journey to find the perfect PhD position. Through this website, I aim to share a glimpse of my world—full of curiosity, exploration, and joy.
+
+I live by the philosophy that life is an adventure 🌍, meant to be embraced with an open heart and a curious mind. Every challenge is an opportunity, and every moment offers a chance to learn and grow.
+
+Feel free to explore, and I hope you leave with a smile 😊 and a bit more happiness! 🌟
+
+🔭 I’m currently looking for a PhD position to apply for Fall 2024.
+
+💌 peishuwei9@live.com
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
