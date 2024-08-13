@@ -12,7 +12,7 @@ title                    : "Shuwei Pei / Travid"
 title_separator          : "-"
 name                     : &name "Shuwei Pei"
 description              : &description "Shuwei Pei Personal Website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://travid-pei.github.io/"
+url                      : https://travid-pei.github.io/ # the base hostname & protocol for your site e.g. "https://travid-pei.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "travid-pei/travid-pei.github.io"
 
@@ -21,7 +21,7 @@ repository               : "travid-pei/travid-pei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Person Photo.png"
+  avatar           : Person Photo.png
   name             : "Shuwei Pei/Travid"
   pronouns         : "He/Him"  
   bio              : "You are welcome! Life is changing. Hope you can feel more pleasure in my place!"
