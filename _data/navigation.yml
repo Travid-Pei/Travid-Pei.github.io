@@ -17,13 +17,13 @@ main:
  # - title: "Teaching"
  #  url: /teaching/    
     
-  - title: "Research Experience"
+ - title: "Research Experience"
     url: /portfolio/
 
-  - title: "Internship"
+ - title: "Internship"
     url: /cv/
         
-  - title: "Blog Posts"
+ - title: "Blog Posts"
     url: /year-archive/
     
 
