@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there 👋, my dear friends! Travid is ready for meeting you! "
 author_profile: true
 redirect_from: 
   - /about/
