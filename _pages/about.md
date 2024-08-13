@@ -33,7 +33,11 @@ I’m on a journey to find the perfect PhD position. Through this website, I aim
 - **Multi-objective Optimization**
 
 ---
+### About Me 🌟
 
+I am highly devoted to the automobile industry and intensely interested in **autonomous robotics** and **multi-agent reinforcement learning**. With a strong sense of responsibility and an extraordinary ability for team communication and cooperation, I can get along well with other members of a team. I excel at analyzing, thinking, and summarizing, which helps me adapt quickly to new fields. Additionally, my experience as an exchange student for half a year has enabled me to communicate fluently in English.
+
+---
 ### My Philosophy of Life 🌍
 - Life is an adventure, meant to be embraced with an open heart and a curious mind.
 - Every challenge is an opportunity.
