@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "[National Innovation Center of Intelligent and Connected Vehicles](http://www.china-icv.cn/index.html)"
+collection: Internship
+type: "Intern in Industry Analyst"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Industry Analyst"
+date: 2024-06-08
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+![CICV]()
 
-Heading 1
+Main Contribution
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+-**1. Standards Development:** Contributed to quality standards for automotive, including quality management,software development, and safety, while coordinating with government, industry, and research institutions.
+-**2. Industry Research:** Investigated key issues such as real-time operating systems for high-performance automotivecomputing, cybersecurity, toolchain systems, and functional safety certification.
+-**3. Technical Roadmap:** Developed a technical roadmap outlining the current state and trends of automotiveoperating systems, setting technology targets for 2030, and promoting innovation in China’s automotive.
