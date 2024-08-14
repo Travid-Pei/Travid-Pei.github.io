@@ -9,5 +9,5 @@ venue: 'International Journal of Automotive Technology'
 paperurl: 'https://travidp.github.io/s12239-023-0131-5.pdf'
 citation: 'Pei, S., Yang, J. Multi-objective Velocity Trajectory Optimization Method for Autonomous Mining Vehicles. Int.J Automot. Technol. 24, 1627–1641 (2023). https://doi.org/10.1007/s12239-023-0131-5'
 ---
-
+![First Paper](https://travidp.github.io//Pic_Final.png)
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
