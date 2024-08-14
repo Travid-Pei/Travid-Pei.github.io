@@ -16,5 +16,7 @@ location: "Beijing, China"
 Main Contribution
 ======
 -**1. Standards Development:** Contributed to quality standards for automotive, including quality management,software development, and safety, while coordinating with government, industry, and research institutions.
+
 -**2. Industry Research:** Investigated key issues such as real-time operating systems for high-performance automotivecomputing, cybersecurity, toolchain systems, and functional safety certification.
+
 -**3. Technical Roadmap:** Developed a technical roadmap outlining the current state and trends of automotiveoperating systems, setting technology targets for 2030, and promoting innovation in China’s automotive.
