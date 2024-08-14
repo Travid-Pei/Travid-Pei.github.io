@@ -15,5 +15,7 @@ Autonomous mining transportation is an intelligent traffic control system that c
 Main Contribution:
 ----
 -**1. Eco-Driving and Cost Reduction: **Investigated velocity optimization techniques for manned vehicles to reduce overall transport costs, focusing on eco-driving strategies to enhance efficiency.
+
 -**2. Multi-Objective Optimization Method: **Proposed a multi-objective optimization method utilizing dynamic programming to balance travel time, energy consumption, and battery lifespan. The method was tested on both fuel and electric vehicle models, demonstrating its applicability in cost control for mining operations.
+
 -**3. Results and Trade-Offs: **It adjusted acceleration and coasting frequencies for varying road gradients. It achieved Pareto optimal solutions, reducing travel time and velocity fluctuations while enhancing battery lifesp
