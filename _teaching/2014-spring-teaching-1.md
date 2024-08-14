@@ -1,5 +1,5 @@
 ---
-title: "[National Innovation Center of Intelligent and Connected Vehicles](http://www.china-icv.cn/index.html)"
+title: "[National Innovation Center of Intelligent and Connected Vehicles]"
 collection: Internship
 type: "Intern in Industry Analyst"
 permalink: /teaching/2014-spring-teaching-1
@@ -9,6 +9,9 @@ location: "Beijing, China"
 ---
 
 ![CICV](images/CICV.png)
+
+###[National Innovation Center of Intelligent and Connected Vehicles](http://www.china-icv.cn/index.html)  Beijing, CHN
+#### _Intern in Industry_  Analyst June 2024 - August 2024
 
 Main Contribution
 ======
