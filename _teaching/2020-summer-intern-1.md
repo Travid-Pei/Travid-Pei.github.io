@@ -4,7 +4,7 @@ collection: Internship
 type: "Intern in Lean Management"
 permalink: /teaching/2020-summer-intern-1
 venue: "Air-Conditioner Group"
-date: 2022-06-20
+date: 2020-06-20
 location: "Foshan, China"
 ---
 
