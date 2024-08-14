@@ -17,11 +17,12 @@ main:
 
     
   - title: "Research Experience"
-    url: /portfolio/
+    url: /Research/
+#url: /portfolio/
 
   - title: "Work Experience"
     url: /work/   
-        
+# teaching       
   - title: "Blog Posts"
     url: /year-archive/
     
