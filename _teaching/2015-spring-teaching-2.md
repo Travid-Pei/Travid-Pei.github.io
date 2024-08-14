@@ -16,4 +16,5 @@ location: "Beijing, China"
 Main Contribution
 ======
 -**1. Cross-Cultural Coordination:** Coordinated logistical details for meetings and events. Provided translation services for speeches and documents, ensuring interactions between teams from different cultural backgrounds.
+
 -**2. Market and Policy Analysis:** Conducted comprehensive analysis of the electric vehicle markets in Europe and China, offering actionable insights and supporting strategic decision-making for the association’s initiatives.
