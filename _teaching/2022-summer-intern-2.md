@@ -1,5 +1,5 @@
 ---
-title: "[China National Heavy Duty Truck Group Co., Ltd.]"
+title: "China National Heavy Duty Truck Group Co., Ltd."
 collection: Internship
 type: "Intern in Light Truck"
 permalink: /teaching/2022-summer-intern-2
