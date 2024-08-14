@@ -8,9 +8,9 @@ date: 2024-06-08
 location: "Beijing, China"
 ---
 
-![CICV](images/CICV.png)
+![CICV](/images/CICV.png)
 
-###[National Innovation Center of Intelligent and Connected Vehicles](http://www.china-icv.cn/index.html)  Beijing, CHN
+### [National Innovation Center of Intelligent and Connected Vehicles](http://www.china-icv.cn/index.html)  Beijing, CHN
 #### _Intern in Industry_  Analyst June 2024 - August 2024
 
 Main Contribution
