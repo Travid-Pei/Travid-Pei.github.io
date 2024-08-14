@@ -12,17 +12,7 @@ redirect_from:
 
 I’m thrilled to have you here.
 
-As a recent Master of Engineering graduate 🎓 with a passion for:
-- **Swimming** 🏊‍♂️
-- **Gym** 🥊
-- **Photography** 📸
-- **Traveling** ✈️
-
-I’m on a journey to find the perfect PhD position. Through this website, I aim to share a glimpse of my world—full of curiosity, exploration, and joy.
-
----
-
-### Research Interests 🔬
+As a recent Master of Engineering graduate 🎓 with a passion for 🔬:
 - **Automated Driving**
 - **Intelligent Transportation**
 - **Deep Reinforcement Learning**
@@ -31,6 +21,16 @@ I’m on a journey to find the perfect PhD position. Through this website, I aim
 - **Game Theory**
 - **Adversarial Learning**
 - **Multi-objective Optimization**
+
+I’m on a journey to find the perfect **PhD** position. Through this website, I aim to share a glimpse of my world—full of curiosity, exploration, and joy.
+
+---
+
+### Life Interests 🔬
+- **Swimming** 🏊‍♂️
+- **Workout** 🥊
+- **Photography** 📸
+- **Traveling** ✈️
 
 ---
 ### About Me 🌟
