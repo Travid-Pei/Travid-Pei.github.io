@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+More detailed documents about me can be found [here](https://travid-pei.github.io//year-archive/)!
+
 Education
 ======
 ### M.E. in Mechanical Engineering, [University of Science and Technology Beijing](https://en.ustb.edu.cn/) 
