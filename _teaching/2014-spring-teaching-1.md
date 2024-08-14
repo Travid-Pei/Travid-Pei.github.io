@@ -8,7 +8,7 @@ date: 2024-06-08
 location: "Beijing, China"
 ---
 
-![CICV]()
+![CICV](images/CICV.png)
 
 Main Contribution
 ======
