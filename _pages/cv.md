@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-More detailed documents about me can be found [here](https://travid-pei.github.io//year-archive/)!
+More detailed documents about me can be found [here](https://travid-pei.github.io//Blog%20Documents/)!
 
 Education
 ======
