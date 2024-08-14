@@ -16,4 +16,5 @@ location: "Foshan, China"
 Main Contribution
 ======
 -**1. Production Line Optimization:** Conducted detailed analysis of manufacturing line operation times, balanced assembly line processes, and adjusted production sequences to reduce overall manufacturing time.
+
 -**2. Automated Logistics:** Introduced and simulated automatic guided vehicles in the plant, enhancing transport efficiency by 1.2% and achieving 80 transport cycles per hour.
