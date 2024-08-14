@@ -5,6 +5,9 @@ collection: Research
 ---
 
 ### Multi-agent Reinforcement Learning-Based Fleet Dispatching _August 2023 - June 2024_
+
+![ResearchRL](https://travidp.github.io/figure1.jpg)
+
 **1. Simulation Platform Development:** Mining haulage fuel consumption accounts for over half of the greenhouse gas emissions, highlighting the need for optimized solutions. Developed a fleet dispatch simulation platform using PyTorch and SimPy, modeling mountainous scenarios, including assembly, real-time dynamic scheduling, and resupply.
 
 ![Research1](https://travidp.github.io/DQN2.png)
