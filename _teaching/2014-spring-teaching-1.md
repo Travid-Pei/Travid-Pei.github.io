@@ -1,5 +1,5 @@
 ---
-title: "[National Innovation Center of Intelligent and Connected Vehicles]"
+title: "National Innovation Center of Intelligent and Connected Vehicles"
 collection: Internship
 type: "Intern in Industry Analyst"
 permalink: /teaching/2014-spring-teaching-1
