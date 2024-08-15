@@ -68,6 +68,8 @@ Working Experience
 
 Awards & Honors
 ======
+- **Outstanding Graduates**, _University of Science and Technology Beijing_, 2024
+- **Excellent Graduate Cadre**, _University of Science and Technology Beijing_, 2023
 - **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2023
 - **The Second Price Scholarship**, [_Roberto Rocca Scholarship_](https://www.robertorocca.org/es/becas/de-doctorado/fellowships), 2023
 - **Excellent Graduate Cadre**, _University of Science and Technology Beijing_, 2022
