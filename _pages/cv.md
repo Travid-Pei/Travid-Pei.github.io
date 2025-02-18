@@ -13,6 +13,8 @@ More detailed documents about me can be found [here](https://travid-pei.github.i
 
 Education
 ======
+### M.E. in Intelligent Transportation, [University of Groningen](https://www.rug.nl/?lang=en) 
+#### _September 2021 - June 2024_
 
 ### M.E. in Mechanical Engineering, [University of Science and Technology Beijing](https://en.ustb.edu.cn/) 
 #### _September 2021 - June 2024_
@@ -104,6 +106,11 @@ Skills
 
 References
 ======
+###  [Dr. Saeed Ahmed](https://research.rug.nl/en/persons/saeed-ahmed)
+- _Faculty of Science and Engineering_
+- University of Groningen
+- Email: s.ahmed@rug.nl
+
 ###  [Prof. Jue Yang](http://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/468.html)
 - _School of Mechanical Engineering_
 - University of Science and Technology Beijing
