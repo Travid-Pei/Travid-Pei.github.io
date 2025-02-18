@@ -9,8 +9,8 @@ redirect_from:
 
 
 ### Key Documents 📄
-- 📄 [**My latest CV resume in Chinese**](../files/中文_resume_裴树伟_20250218.pdf) - edited inFebeurary 2025.
-- 📄 [**My latest CV resume in English**](../files/CV_Shuwei_Pei_English_(20250218).pdf) - edited in Febeurary 2025.
+- 📄 [**My latest CV resume in Chinese**](../files/中文_resume_裴树伟_20250218.pdf) - edited in February 2025.
+- 📄 [**My latest CV resume in English**](../files/CV_Shuwei_Pei_English_(20250218).pdf) - edited in February 2025.
 - 📄 [**My latest CV resume in Chinese**](../files/CV_Shuwei_Pei_english_20240814.pdf.pdf) - edited in August 2024.
 - 📄 [**My latest CV resume in Chinese**](../files/裴树伟_北京科技大学_机械工程学院_240813.pdf) - edited in August 2024.
 - 📄 [**My Master Thesis**](../files/[上传]速度优化的学习型矿用无人驾驶车队调度研究.pdf) - edited in May 2024.
