@@ -22,7 +22,9 @@ As a recent Master of Engineering graduate 🎓 with a passion for 🔬:
 - **Adversarial Learning**
 - **Multi-objective Optimization**
 
-I’m on a journey to find the perfect **PhD** position. Through this website, I aim to share a glimpse of my world—full of curiosity, exploration, and joy.
+# Shuwei Pei | PhD Researcher in Autonomous Systems & Intelligent Transportation  
+
+I am a **PhD student at the University of Groningen**, specializing in **Autonomous Intersection Management** using **Reinforcement Learning and Game Theory**. My research focuses on developing **intelligent, scalable, and resilient traffic management systems** for autonomous vehicles, integrating **centralized and decentralized control strategies** with advanced safety mechanisms.  
 
 ---
 
